@@ -35,6 +35,19 @@ table {
 th, td {
     padding: 15px;
     border: 1px solid black; 
+    float: bottom 
+    
+}
+
+td {
+    
+    margin-bottom: 10px;
+    flex-wrap: wrap;
+    
+    align-content: center;
+} */
+   
+}
 }
 
 /* b {
