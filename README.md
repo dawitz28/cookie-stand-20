@@ -1,3 +1,4 @@
 # cookie-stand-20
 - Salmon Cookies are cookies made into the shape of a salmon that has just a hint of fishy goodness. These are made for a client named Pat and he has developed a recpe for a coffee-time  confection called Salmon Cookies. My job is to help Pat build a website that will show the number of cookies each of his locations makes everyday so that he can manage his supplies inventory and also the number of cookies to make depending on the hours of operation 6am to 8pm for all of his five locations. My page will cover the minimum and maximum numbers of customers per hour and the average numbers of cookies purchased per customers. 
 - Some of this codes were influenced by code review for a better outcome. 
+- Got some help for my final daily sales by one of TA named Nicco. 
