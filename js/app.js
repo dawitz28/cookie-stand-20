@@ -113,7 +113,6 @@ function renderAllStores() {
     }
 }
 
-
 // var tfoot = document.createElement('tfoot');
 // var td = document.createElement(td);
 // td.textContent = 'Total';
